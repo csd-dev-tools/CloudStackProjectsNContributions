@@ -9,4 +9,5 @@ A PyQt application that will run (if the right libraries are installed) packer t
 ## CloudTemplates
 Cloud templates to work with ClockworkVMs specifically, but will work with packer for automation purposes.
 
-
+## Note:
+Please use "git submodule update https://github.com/csd-dev-tools/CloudStackProjectsNContributions.git" and "git clone --recursive https://github.com/csd-dev-tools/CloudStackProjectsNContributions.git" to ensure you include everything.
